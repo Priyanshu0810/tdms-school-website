@@ -1,0 +1,8 @@
+{
+  "name": "Thelma David Memorial School",
+  "description": "Thelma David Memorial School (TDMS) is a premier educational institution located in Maldahiya, Varanasi, dedicated to academic excellence and holistic development.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
